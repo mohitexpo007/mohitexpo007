@@ -4,7 +4,7 @@
 
 💻 Flutter | React | FastAPI | JavaScript | C++
 
-🏆 Hackathon Finalist (IIT BHU)
+🏆 Hackathon 1st RunnerUp (INTER IIIT HACKATHON)
 
 ## 📊 GitHub Stats
 
