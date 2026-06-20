@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Mohit Gupta
 
-<!--
-**mohitexpo007/mohitexpo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech ECE
 
-Here are some ideas to get you started:
+💻 Flutter | React | FastAPI | JavaScript | C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Hackathon Finalist (IIT BHU)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitexpo007&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitexpo007&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohitexpo007&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitexpo007&theme=react-dark)
+
+## 🚀 Projects
+
+- 🌊 Ocean Hazard App
+- 🛡️ Blogs Site
+- 🛒 Amazon Clone
+- 🚀 Rocket Simulation
+- 🌐 Router App
