@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mohit Gupta
 
-🎓 2nd Year B.Tech ECE
+🎓 4th Year B.Tech ECE
 
 💻 Flutter | React | FastAPI | JavaScript | C++
 
