@@ -1,9 +1,7 @@
 # Hi 👋 I'm Mohit Gupta
 
 🎓 4th Year B.Tech ECE
-
 💻 Flutter | React | FastAPI | JavaScript | C++
-
 🏆 Hackathon 1st RunnerUp (INTER IIIT HACKATHON)
 
 ## 📊 GitHub Stats
