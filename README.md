@@ -17,5 +17,4 @@
 - 🌊 Ocean Hazard App
 - 🛡️ Blogs Site
 - 🛒 Amazon Clone
-- 🚀 Rocket Simulation
 - 🌐 Router App
