@@ -101,12 +101,4 @@
 
 ---
 
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitexpo007&theme=tokyo-night)
-
-</div>
-
----
-
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
