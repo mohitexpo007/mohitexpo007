@@ -63,13 +63,37 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Authentication App
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔐 Authentication App
+
 - JWT Authentication
 - Protected Routes
 - Express.js
 - MongoDB
 - bcrypt
 - Cookie Parser
+
+</td>
+
+<td width="50%">
+
+### 🏥 Medora – AI Healthcare Platform
+
+- Flutter + Dart
+- AI Health Assistant
+- Medical Records
+- Appointment Scheduling
+- Node.js Backend
+- Material 3 UI
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Connect with Me
 
@@ -90,15 +114,5 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="45"/>
 </a>
 </p>
-
----
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mohitexpo007&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
