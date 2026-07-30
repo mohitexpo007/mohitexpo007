@@ -66,29 +66,63 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-### 🔐 Authentication App
+### 🔐 Authentication App (Backend)
 
-- JWT Authentication
-- Protected Routes
+**Tech Stack**
+- Node.js
 - Express.js
 - MongoDB
+- JWT
 - bcrypt
-- Cookie Parser
+
+**Highlights**
+- Secure JWT Authentication
+- Role-Based Authorization
+- Protected Routes
+- Cookies, Body & Header Token Support
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### 🏥 Medora – AI Healthcare Platform
+### 🛒 Amazon Clone
 
-- Flutter + Dart
-- AI Health Assistant
+**Tech Stack**
+- React.js
+- Node.js
+- PostgreSQL
+- Express.js
+- Vercel
+- Render
+
+**Highlights**
+- Full Stack E-Commerce Platform
+- Dynamic Product Search & Filtering
+- Shopping Cart
+- Backend REST APIs
+- Cloud Deployment
+
+⭐ Built as part of the **Scaler 48-Hour Internship Challenge**
+
+</td>
+
+<td width="33%">
+
+### 🏥 Medora (Inter IIIT Hackathon)
+
+**Tech Stack**
+- Flutter
+- Node.js
+- PostgreSQL
+
+**Highlights**
+- AI Healthcare Platform
 - Medical Records
 - Appointment Scheduling
-- Node.js Backend
-- Material 3 UI
+- Modern Material 3 UI
+- Responsive Mobile App
 
 </td>
 
