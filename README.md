@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech from **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY (IIIT) NAGPUR**
 - 💻 Full Stack MERN Developer
-- 🌱 Currently learning **Backend Development & System Design**
+- 🚀 **Backend Development & System Design**
 - 🏆 Competitive Programmer
 - 📚 Won INTER IIIT HACKATHON (2026) Among 23 IIITs
 - 🚀 Passionate about Open Source & Hackathons **(Participated in 7+ national Hackathon finalist in 3 of them)**
@@ -78,15 +78,15 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mohit-gupta-7abb762b3/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mohit07gupta007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://codechef.com/users/YOUR_CODECHEF_USERNAME">
+<a href="(https://codeforces.com/profile/mohitexpo)">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="45"/>
 </a>
 </p>
