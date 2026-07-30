@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
-<h3 align="center">Full Stack MERN Developer | Competitive Programmer | ECE Undergraduate from India 🇮🇳</h3>
+<h3 align="center">Full Stack MERN Developer | Competitive Programmer | BTECH From IIIT Nagpur
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Competitive+Programmer;React+%7C+Node.js+%7C+Express.js;Learning+System+Design+%26+Backend;Always+Building+Something+New!" />
@@ -9,27 +9,13 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering (ECE)
+- 🎓 B.Tech from **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY (IIIT) NAGPUR**
 - 💻 Full Stack MERN Developer
 - 🌱 Currently learning **Backend Development & System Design**
-- 🏆 Competitive Programmer (CodeChef ⭐⭐)
-- 📚 Solving DSA problems daily
-- 🚀 Passionate about Open Source & Hackathons
-- 📫 Reach me: **your-email@gmail.com**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=mohitexpo007&theme=tokyonight&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitexpo007&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitexpo007&layout=compact&theme=tokyonight)
-
-</div>
+- 🏆 Competitive Programmer
+- 📚 Won INTER IIIT HACKATHON (2026) Among 23 IIITs
+- 🚀 Passionate about Open Source & Hackathons **(Participated in 7+ national Hackathon finalist in 3 of them)**
+- 📫 Reach me: **mohit07gupta007@gmail.com**
 
 ---
 
@@ -70,7 +56,7 @@
 ## 🏆 Competitive Programming
 
 - ⭐⭐ CodeChef
-- 💻 Solving DSA daily
+- 💻 **Solved 500+ Problems Across (Codeforces,Codechef,Leetcode)**
 - 📈 Focus on Problem Solving & Algorithms
 
 ---
@@ -84,14 +70,6 @@
 - MongoDB
 - bcrypt
 - Cookie Parser
-
-### 🔹 SheSparks
-Women Safety & Empowerment Platform
-
-### 🔹 Disaster Alert System
-Flutter + FastAPI + PostgreSQL + AI
-
----
 
 ## 🌐 Connect with Me
 
@@ -126,14 +104,6 @@ Flutter + FastAPI + PostgreSQL + AI
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitexpo007&theme=tokyo-night)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/mohitexpo007/mohitexpo007/output/github-contribution-grid-snake.svg)
 
 </div>
 
