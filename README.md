@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
-<h3 align="center">Full Stack MERN Developer | Competitive Programmer | BTech From IIIT Nagpur
+<h3 align="center">Full Stack MERN Developer | Competitive Programming | BTech From IIIT Nagpur
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Competitive+Programmer;React+%7C+Node.js+%7C+Express.js;Learning+System+Design+%26+Backend;Always+Building+Something+New!" />
@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech from **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY (IIIT) NAGPUR**
+- 🎓 B.Tech from **Indian Institute Of Information Technology (IIIT) NAGPUR**
 - 💻 Full Stack MERN Developer
 - 🚀 **Backend Development & System Design**
-- 🏆 Competitive Programmer
+- 🏆 Competitive Programming
 - 📚 Won INTER IIIT HACKATHON (2026) Among 23 IIITs
 - 🚀 Passionate about Open Source & Hackathons **(Participated in 7+ national Hackathon finalist in 3 of them)**
 - 📫 Reach me: **mohit07gupta007@gmail.com**
@@ -56,7 +56,7 @@
 ## 🏆 Competitive Programming
 
 - ⭐⭐ CodeChef
-- 💻 **Solved 500+ Problems Across (Codeforces,Codechef,Leetcode)**
+- 💻 **Solved 600+ Problems Across (Codeforces,Codechef,Leetcode)**
 - 📈 Focus on Problem Solving & Algorithms
 
 ---
