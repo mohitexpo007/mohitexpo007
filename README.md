@@ -68,6 +68,36 @@
 
 <td width="33%">
 
+### 🎓 Atlas — EdTech Platform
+## Advanced Backend Architecture
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Redux Toolkit
+- Razorpay
+- Cloudinary
+
+**Highlights**
+- Full Stack MERN Learning Platform
+- OTP based system to get updates within ms
+- Student & Instructor Role-Based Access
+- Course Creation & Management
+- Video-Based Learning & Progress Tracking
+- Razorpay Payment Integration
+- Ratings & Reviews
+- JWT Authentication & OTP Verification
+- Instructor Dashboard & Analytics
+- Cloud Deployment with Vercel & Render
+
+🔗 **[Live Demo](https://atlas-livid-iota-48.vercel.app/)**
+
+</td>
+
+<td width="33%">
+
 ### 🔐 Authentication App (Backend)
 
 **Tech Stack**
@@ -82,35 +112,6 @@
 - Role-Based Authorization
 - Protected Routes
 - Cookies, Body & Header Token Support
-
-</td>
-
-<td width="33%">
-
-### 🎓 Atlas — EdTech Platform
-
-**Tech Stack**
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
-- Redux Toolkit
-- Razorpay
-- Cloudinary
-
-**Highlights**
-- Full Stack MERN Learning Platform
-- Student & Instructor Role-Based Access
-- Course Creation & Management
-- Video-Based Learning & Progress Tracking
-- Razorpay Payment Integration
-- Ratings & Reviews
-- JWT Authentication & OTP Verification
-- Instructor Dashboard & Analytics
-- Cloud Deployment with Vercel & Render
-
-🔗 **[Live Demo](https://atlas-livid-iota-48.vercel.app/)**
 
 </td>
 
