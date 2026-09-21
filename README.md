@@ -73,7 +73,6 @@
 
 **Tech Stack**
 - React.js
-- Node.js
 - Express.js
 - MongoDB
 - Redux Toolkit
@@ -93,6 +92,7 @@
 - Cloud Deployment with Vercel & Render
 
 🔗 **[Live Demo](https://atlas-livid-iota-48.vercel.app/)**
+🔗 **[Repo](https://github.com/mohitexpo007/EdTech-System)**
 
 </td>
 
