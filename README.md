@@ -87,24 +87,30 @@
 
 <td width="33%">
 
-### 🛒 Amazon Clone
+### 🎓 Atlas — EdTech Platform
 
 **Tech Stack**
 - React.js
 - Node.js
-- PostgreSQL
 - Express.js
-- Vercel
-- Render
+- MongoDB
+- Tailwind CSS
+- Redux Toolkit
+- Razorpay
+- Cloudinary
 
 **Highlights**
-- Full Stack E-Commerce Platform
-- Dynamic Product Search & Filtering
-- Shopping Cart
-- Backend REST APIs
-- Cloud Deployment
+- Full Stack MERN Learning Platform
+- Student & Instructor Role-Based Access
+- Course Creation & Management
+- Video-Based Learning & Progress Tracking
+- Razorpay Payment Integration
+- Ratings & Reviews
+- JWT Authentication & OTP Verification
+- Instructor Dashboard & Analytics
+- Cloud Deployment with Vercel & Render
 
-⭐ Built as part of the **Scaler 48-Hour Internship Challenge**
+🔗 **[Live Demo](https://atlas-livid-iota-48.vercel.app/)**
 
 </td>
 
@@ -144,8 +150,8 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="(https://codeforces.com/profile/mohitexpo)">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="45"/>
+<a href="https://codeforces.com/profile/mohitexpo">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="45"/>
 </a>
 </p>
 
